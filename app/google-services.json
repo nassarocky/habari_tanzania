@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "251408024579",
+    "firebase_url": "https://siasatz-4849e.firebaseio.com",
+    "project_id": "siasatz-4849e",
+    "storage_bucket": "siasatz-4849e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251408024579:android:85db9c1a42c93dd2",
+        "android_client_info": {
+          "package_name": "com.siasatanzania.siasatanzania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251408024579-6cvvo3fn24ilogr2rci5jl96auf62bhj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.siasatanzania.siasatanzania",
+            "certificate_hash": "c3a9bf24692f2192faa6faee6169e72149386dfa"
+          }
+        },
+        {
+          "client_id": "251408024579-lfc7lh657s3u43p7p6i1u88jt40pbj21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPNvSLcQ7US0ml_TEbonG7BEV_YBntUHs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251408024579-lfc7lh657s3u43p7p6i1u88jt40pbj21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
